@@ -1,10 +1,14 @@
 package Acme::CPANModules::API::Domain::Registrar;
 
+use strict;
+
+# AUTHORITY
 # DATE
+# DIST
 # VERSION
 
 our $LIST = {
-    summary => "API to domain registrars",
+    summary => "List of API modules for domain registrars",
     description => <<'_',
 
 If you know of others, please drop me a message.
